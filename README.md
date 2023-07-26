@@ -49,6 +49,8 @@ These lower-tier ISPs are interconnected through national & international upper-
 An upper-tier ISP has high-speed routers interconnected with high-speed fiber-optic links.
 
 ## Protocols
+> A protocol defines the format and the order of messages exchanged between two or more communicating entities, as well as the actions taken on the transmission and/or receipt of a message or other event.
+
 End systems, packets switches, & other pieces of the Internet run protocols that control the sending/receiving of information.
 
 The two most important protocols:
